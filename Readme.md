@@ -1,3 +1,5 @@
+# Anotace
+Tento repozitář vznikl ve snaze zasvětit bývalého spolužáka do problematiky programování
 # **Úkol: Přinesená věc**
 
 Do rukou se ti dostal relativně neznámý předmět, který periodický bliká. Nemusíš okamžitě přestřihávat červený drátek, žádný tam snad ani není, ale nebylo by špatné použít nějaké utilitky na zjištění, co z toho chodí.
